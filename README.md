@@ -6,5 +6,4 @@ El servidor gestiona toda la lógica: temporizadores de aparición, recorrido po
 
 Incluye configuración en español (intervalos, duración sin daño, ruta, salud, velocidad, detección, etc.), comandos de administrador (/npcheli start, stop, status, damage, reload), compilación de DLL de servidor y cliente, y un AssetBundle visual ya construido (Mi24.unity3d).
 
-
-![Uploading imagen.png…]()
+https://imgur.com/a/r7avCwx

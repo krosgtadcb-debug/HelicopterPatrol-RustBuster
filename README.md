@@ -1,4 +1,4 @@
-NPCHelicopter 1.0.14
+NPCHelicopter 1.0.17
 
 Plugin cliente-servidor para Rust Legacy sobre Fougerite y RustBuster (autor: Sekete) que añade un helicóptero NPC MI24 controlado por el servidor como evento dinámico.
 
